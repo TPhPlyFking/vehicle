@@ -6,3 +6,4 @@ I implemented both constructors and getter/setter methods to control how data is
 During the process, I recognized that designing a class requires balancing between simplicity and completeness. Too few attributes may not fully represent the entity, while too many can make the class unnecessarily complex. Another challenge was ensuring that user input could be integrated correctly into the object creation process. By solving this, I gained more confidence in handling constructors and user interaction in C++.
 
 Overall, this exercise gave me practical experience in defining classes, applying encapsulation, and connecting theory with practice. It also improved my problem-solving and coding skills, which are essential for further OOP learning.
+https://chatgpt.com/?model=auto
